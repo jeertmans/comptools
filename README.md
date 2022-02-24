@@ -1,9 +1,7 @@
 # CompTools
 
-[![CI Build Status][github-ci-img]][github-ci]
-[![Latest Release][pypi-version-badge]][pypi-version-url]
-[![Python version][pypi-python-version-badge]][pypi-version-url]
-[![Documentation][docs-rtd-img]][docs-rtd-url]
+![Crates.io](https://img.shields.io/crates/v/comptools)
+![docs.rs](https://img.shields.io/docsrs/comptools)
 
 ## Create iterators using Python's list comprehesion style.
 
@@ -35,5 +33,5 @@ Contributions are more than welcome!
 [pypi-python-version-badge]: https://img.shields.io/pypi/pyversions/ropey
 [github-ci-img]: https://github.com/jeertmans/pyropey/actions/workflows/CI.yml/badge.svg
 [github-ci]: https://github.com/jeertmans/pyropey/actions?query=workflow%3Aci
-[docs-rtd-url]: https://pyropey.readthedocs.io/en/latest/?badge=latest
-[docs-rtd-img]: https://readthedocs.org/projects/pyropey/badge/?version=latest
+[docs-rs-url]: https://pyropey.readthedocs.io/en/latest/?badge=latest
+[docs-rs-img]: https://readthedocs.org/projects/pyropey/badge/?version=latest
