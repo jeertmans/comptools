@@ -2,12 +2,6 @@
 
 All notable changes to this project will be documented in this file.
 
-## [unreleased]
-
-### Miscellaneous Tasks
-
-- First release
-
 ## [0.0.1] - 2022-02-24
 
 ### Features
@@ -20,6 +14,7 @@ All notable changes to this project will be documented in this file.
 - MIT license
 - Gitignore
 - Cargo.toml
+- First release
 
 ### Styling
 
