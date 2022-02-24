@@ -1,0 +1,10 @@
+[package]
+authors = ["Jérome Eertmans <jeertmans@icloud.com>"]
+name = "comptools"
+version = "0.1.0"
+edition = "2021"
+description = "Create iterators using Python's list comprehesion style."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
