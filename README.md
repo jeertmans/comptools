@@ -1,7 +1,7 @@
 # CompTools
 
-![Crates.io](https://img.shields.io/crates/v/comptools)
-![docs.rs](https://img.shields.io/docsrs/comptools)
+[![Crates.io](https://img.shields.io/crates/v/comptools)](https://crates.io/crates/comptools)
+[![docs.rs](https://img.shields.io/docsrs/comptools)](https://docs.rs/comptools)
 
 ## Create iterators using Python's list comprehesion style.
 
