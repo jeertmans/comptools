@@ -27,11 +27,3 @@ assert_eq!(sum, 385);
 ## Contributing
 
 Contributions are more than welcome!
-
-[pypi-version-badge]: https://img.shields.io/pypi/djversions/ropey?label=Ropey
-[pypi-version-url]: https://pypi.org/project/ropey/
-[pypi-python-version-badge]: https://img.shields.io/pypi/pyversions/ropey
-[github-ci-img]: https://github.com/jeertmans/pyropey/actions/workflows/CI.yml/badge.svg
-[github-ci]: https://github.com/jeertmans/pyropey/actions?query=workflow%3Aci
-[docs-rs-url]: https://pyropey.readthedocs.io/en/latest/?badge=latest
-[docs-rs-img]: https://readthedocs.org/projects/pyropey/badge/?version=latest
